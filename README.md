@@ -8,7 +8,7 @@ Use a dataset of historical lending activity from a peer-to-peer lending service
 
 The analysis report is below which shows the Models used, Results and the Summary of findings.
 
-Report Link here(!)
+Report Link here(!https://github.com/lintubaby5/credit-risk-classification/blob/main/Credit_Risk/report-template.md)
 
 
 
